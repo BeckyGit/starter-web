@@ -12,4 +12,4 @@ Please fork this repository
 
 ### Copyright
 
-git.training
+git.training.  All right reserved
